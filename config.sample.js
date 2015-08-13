@@ -14,7 +14,7 @@ module.exports = {
         // admins: allowed users to send DM commands to control player
         admins: ["EDIT"],
         // captureStrategy: only streaming supported, will support differnt strategies in the future
-        capture_strategy: "streaming"
+        capture_strategy: "streaming",
         // for development purposes, avoid rate limiting
         deactivate_all_statuses_updates: false
     },
